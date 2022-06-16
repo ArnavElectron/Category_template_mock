@@ -37,7 +37,7 @@ a{
 .grid_item{
     border-radius : 20px;
     padding-top: 30px;
-    
+    box-shadow:5px 10px #000;
     background-color:  hsl(235, 46%, 20%);
     font-size: 18px;
 }
@@ -82,7 +82,7 @@ a{
 
 .container_2{
     background-color:  hsl(15, 100%, 70%);
-    box-shadow:5px 10px #000;
+    
     /* opacity: 0.8; */
 }
 .container_3{
