@@ -82,6 +82,7 @@ a{
 
 .container_2{
     background-color:  hsl(15, 100%, 70%);
+    box-shadow:5px 10px;
     /* opacity: 0.8; */
 }
 .container_3{
