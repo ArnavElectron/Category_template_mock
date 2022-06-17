@@ -37,7 +37,7 @@ a{
 .grid_item{
     border-radius : 20px;
     padding-top: 30px;
-    box-shadow: 0 10px 20px 0 #566573, 0 6px 20px 0 rgba(0,0,0,0.19);
+    box-shadow: 0 10px 20px 0 #566573, 0 6px 20px 0 #566573 ;
     background-color:  hsl(235, 46%, 20%);
     font-size: 18px;
 }
